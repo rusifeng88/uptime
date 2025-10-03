@@ -1,6 +1,6 @@
 const pageConfig = {
   // Title for your status page
-  title: "数字套利 •「AM科技」's Status Page",
+  title: "Devin's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
     { link: 'https://amclubss.com', label: '博客', highlight: true },
